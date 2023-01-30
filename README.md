@@ -11,11 +11,11 @@ Welcome to my repository!
 - 👯 I’m looking to collaborate on ... machine learning
 - 🤔 I’m looking for help with ... web development and seo
 - 💬 Ask me about ... data science and analytics team leadership
-- * 🌍  I'm based in New Jersey
+- 🌍  I'm based in New Jersey
 - 📫 Learn more about me: ... https://www.linkedin.com/in/dennispetersny/
 - ✉️  You can contact me at [dennispeters2@yahoo.com](mailto:dennispeters2@yahoo.com)
 - 😄 Pronouns: ... He, Him
-- ⚡ Fun fact: ... I like weightlifting, running and crypto currency.  
+- ⚡ Fun fact: ... I like weightlifting, running and cryptocurrency.  
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
