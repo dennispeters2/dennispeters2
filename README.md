@@ -2,6 +2,8 @@
 **dennispeters2/dennispeters2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dennis Peters
+
 Welcome to my repository!
 
 - 🔭 I’m currently working on ... solving business problems with data as Head of Data & Analytics & PGIM
@@ -9,7 +11,9 @@ Welcome to my repository!
 - 👯 I’m looking to collaborate on ... machine learning
 - 🤔 I’m looking for help with ... web development and seo
 - 💬 Ask me about ... data science and analytics team leadership
-- 📫 How to reach me: ... https://www.linkedin.com/in/dennispetersny/
+- * 🌍  I'm based in New Jersey
+- 📫 Learn more about me: ... https://www.linkedin.com/in/dennispetersny/
+- ✉️  You can contact me at [dennispeters2@yahoo.com](mailto:dennispeters2@yahoo.com)
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I like weightlifting, running and crypto currency.  
 
