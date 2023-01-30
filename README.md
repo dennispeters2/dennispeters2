@@ -27,3 +27,7 @@ Welcome to my repository!
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+<!--
+![Banner](https://user-images.githubusercontent.com/29686102/122269982-7af63100-cefb-11eb-8ea0-b7a53bdf1cb9.png)
+-->
